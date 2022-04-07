@@ -1,0 +1,8 @@
+name: RPGCrafting
+main: uk.co.fordevelopment.rpg.CraftPlugin
+version: 1.0
+author: Mat
+description: Advanced customizable crafting system
+commands:
+  givepls:
+    description: Give pls.
